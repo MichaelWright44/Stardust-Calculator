@@ -1,2 +1,2 @@
 # Stardust-Calculator
-friends wanted a pokemon go calculator, this is version 1.0
+A pokemon go calculator for comparing CP strength, this is version 1.0
